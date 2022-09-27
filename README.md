@@ -1,1 +1,1 @@
-# nextjs-blog
+# graph-cms
